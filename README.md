@@ -1,6 +1,6 @@
 # Temporizador
 Temporizador ajustable
 
-![ee](./Principal.jpg =100x20)
+![ee](./Principal.jpg)
 
 ![Configuración](https://github.com/Thoraal/Temporizador/blob/main/Configuraci%C3%B3n.jpg)
