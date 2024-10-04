@@ -1,5 +1,5 @@
 # Temporizador
-Temporizador ajustable
+>Temporizador ajustable
 
 ![1](./Principal.png)
 
